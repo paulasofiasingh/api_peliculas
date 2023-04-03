@@ -1,0 +1,4 @@
+[scripts]
+dev = "py manage.py runserver 127.0.0.1:8844"
+make = "py manage.py makemigrations"
+migrate = "py manage.py migrate"
